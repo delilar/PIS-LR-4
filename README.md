@@ -30,7 +30,8 @@ URL страницы: /purchase-ticket
     "middleName": "",
     "documentType": "Российский паспорт",
     "documentNumber": "",
-    "birthDate": ""
+    "birthDate": "",
+    "gender": ""
   },
   "contactInfo": {
     "email": "",
